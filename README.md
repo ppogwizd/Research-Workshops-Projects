@@ -20,6 +20,6 @@ Below is a list of projects currently included in this repository:
 - **Description:** Simulation of particles in a 2D pipe with flowing water.
 - **Directory:** `Particle-Movement`
 
-- ### 3. Game of Life
+### 3. Game of Life
 - **Description:** Implementation of Conway's Game of Life, a cellular automaton simulation.
 - **Directory:** `Game-of-Life`
