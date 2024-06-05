@@ -23,3 +23,7 @@ Below is a list of projects currently included in this repository:
 ### 3. Game of Life
 - **Description:** Implementation of Conway's Game of Life, a cellular automaton simulation.
 - **Directory:** `Game-of-Life`
+
+  ### 4. Lattice Boltzmann Method for Fluid Dynamics Simulation
+- **Description:** Python implementation of the Lattice Boltzmann Method (LBM) for simulating fluid flows at mesoscopic scales.
+- **Directory:** `Lattice-Boltzmann-Method`
