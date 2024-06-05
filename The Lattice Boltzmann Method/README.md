@@ -21,7 +21,6 @@ To use the code:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies (NumPy, Matplotlib).
-3. Run the main script (`main.py`) to execute the simulation with default or user-defined parameters.
 
 ## Simulation Results
 
@@ -31,9 +30,6 @@ The simulation generates visualizations depicting fluid flow patterns, interacti
 
 Contributions to the project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
