@@ -14,16 +14,16 @@ Below is a list of projects currently included in this repository:
 
 ### 1. Projectile Motion Simulation
 - **Description:** A simulation of projectile motion considering the effects of gravity, air resistance, and wind. Includes both 2D and 3D visualizations.
-- **Directory:** `ProjectileMotionSimulation`
+- **Directory:** [Projectile Motion Simulation](https://github.com/ppogwizd/Research-Workshops-Projects/tree/main/Projectile%20Motion%20Simulation)
 
 ### 2. Particle Movement
 - **Description:** Simulation of particles in a 2D pipe with flowing water.
-- **Directory:** `Particle-Movement`
+- **Directory:** [Particle-Movement](https://github.com/ppogwizd/Research-Workshops-Projects/tree/main/Particle-Movement)
 
 ### 3. Game of Life
 - **Description:** Implementation of Conway's Game of Life, a cellular automaton simulation.
-- **Directory:** `Game-of-Life`
+- **Directory:** [Game-of-Life](https://github.com/ppogwizd/Research-Workshops-Projects/tree/main/Game-of-life)
 
 ### 4. Lattice Boltzmann Method for Fluid Dynamics Simulation
 - **Description:** Python implementation of the Lattice Boltzmann Method (LBM) for simulating fluid flows at mesoscopic scales.
-- **Directory:** `Lattice-Boltzmann-Method`
+- **Directory:** [Lattice Boltzmann Method](https://github.com/ppogwizd/Research-Workshops-Projects/tree/main/The%20Lattice%20Boltzmann%20Method)
